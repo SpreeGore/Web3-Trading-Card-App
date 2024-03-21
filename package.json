@@ -13,11 +13,14 @@
   "dependencies": {
     "@thirdweb-dev/react": "^4.4.23",
     "@thirdweb-dev/sdk": "^4.0.49",
+    "@thirdweb-dev/react": "^3.10.3",
+    "@thirdweb-dev/sdk": "^3.10.54",
     "ethers": "^5.7.2",
     "next": "^13",
     "react": "^18.2",
     "react-dom": "^18.2",
-    "react-hook-form": "^7.43.9"
+    "react-hook-form": "^7.43.9",
+    "thirdweb": "^0.1.5"
   },
   "devDependencies": {
     "@types/node": "^18.11.11",
