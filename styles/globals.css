@@ -16,9 +16,9 @@ a {
 }
 
 html {
-  color-scheme: dark;
+  color-scheme: light;
 }
 body {
-  color: #333;
-  background: #FFF;
+  color: #00a2ff;
+  background: #333;
 }
